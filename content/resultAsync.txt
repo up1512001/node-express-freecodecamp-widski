@@ -1,0 +1,3 @@
+here's async result : fs module
+first text file and fs module
+second text file
