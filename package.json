@@ -1,0 +1,23 @@
+{
+  "name": "sep6thing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/up1512001/node-express-freecodecamp-widski.git"
+  },
+  "author": "utsav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/up1512001/node-express-freecodecamp-widski/issues"
+  },
+  "homepage": "https://github.com/up1512001/node-express-freecodecamp-widski#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.0",
+    "lodash": "^4.17.21"
+  }
+}
